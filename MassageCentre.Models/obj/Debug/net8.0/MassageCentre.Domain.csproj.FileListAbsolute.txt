@@ -12,3 +12,4 @@ C:\Users\50\Desktop\MassageCentre\MassageCentre.Models\obj\Debug\net8.0\refint\M
 C:\Users\50\Desktop\MassageCentre\MassageCentre.Models\obj\Debug\net8.0\MassageCentre.Domain.pdb
 C:\Users\50\Desktop\MassageCentre\MassageCentre.Models\obj\Debug\net8.0\MassageCentre.Domain.genruntimeconfig.cache
 C:\Users\50\Desktop\MassageCentre\MassageCentre.Models\obj\Debug\net8.0\ref\MassageCentre.Domain.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.Models\obj\Debug\net8.0\MassageCentre.Domain.sourcelink.json

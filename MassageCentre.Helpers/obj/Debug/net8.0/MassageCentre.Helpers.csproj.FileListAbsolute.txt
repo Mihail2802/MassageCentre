@@ -17,3 +17,4 @@ C:\Users\50\Desktop\MassageCentre\MassageCentre.Helpers\obj\Debug\net8.0\refint\
 C:\Users\50\Desktop\MassageCentre\MassageCentre.Helpers\obj\Debug\net8.0\MassageCentre.Helpers.pdb
 C:\Users\50\Desktop\MassageCentre\MassageCentre.Helpers\obj\Debug\net8.0\MassageCentre.Helpers.genruntimeconfig.cache
 C:\Users\50\Desktop\MassageCentre\MassageCentre.Helpers\obj\Debug\net8.0\ref\MassageCentre.Helpers.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.Helpers\obj\Debug\net8.0\MassageCentre.Helpers.sourcelink.json

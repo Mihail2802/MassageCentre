@@ -1,0 +1,16 @@
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\bin\Debug\net8.0\MassageCentre.DTOs.deps.json
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\bin\Debug\net8.0\MassageCentre.DTOs.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\bin\Debug\net8.0\MassageCentre.DTOs.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\bin\Debug\net8.0\MassageCentre.Domain.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\bin\Debug\net8.0\MassageCentre.Domain.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.csproj.AssemblyReference.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.AssemblyInfoInputs.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.AssemblyInfo.cs
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.sourcelink.json
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageC.514D2A0F.Up2Date
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\refint\MassageCentre.DTOs.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\MassageCentre.DTOs.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DTOs\obj\Debug\net8.0\ref\MassageCentre.DTOs.dll

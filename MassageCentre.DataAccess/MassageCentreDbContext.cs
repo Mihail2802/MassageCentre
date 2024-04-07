@@ -16,7 +16,7 @@ namespace MassageCentre.DataAccess
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<User>(entity =>
             {
-                entity.Property(x => x.Name).HasMaxLength(50);
+                entity.Property(x => x.FirstName).HasMaxLength(50);
                 entity.Property(x => x.LastName).HasMaxLength(50);
                 entity.Property(x => x.Email).HasMaxLength(50);
                 entity.HasKey(x => x.Id);
@@ -25,19 +25,13 @@ namespace MassageCentre.DataAccess
             modelBuilder.Entity<Reservation>(entity =>
             {
                 entity.HasKey(x => x.Id);
-                entity.Property(x => x.MassageId).IsRequired();
                 entity.Property(x => x.UserId).IsRequired();
+                entity.Property(x => x.TypeOfMassage);
+                entity.Property(x => x.Description);
+                entity.Property(x => x.Price);
                 entity.Property(x => x.StartTime);
                 entity.Property(x => x.EndTime);
 
-            });
-            modelBuilder.Entity<Massage>(entity =>
-            {
-                entity.HasKey(x=>x.Id);
-                entity.Property(x=>x.TypeOfMassage).IsRequired();
-                entity.Property(x=>x.Price).IsRequired();
-                entity.Property(x=>x.Description).IsRequired();
-               
             });
         }
     }

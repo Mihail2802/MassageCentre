@@ -15,3 +15,4 @@ C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\refi
 C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.pdb
 C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.genruntimeconfig.cache
 C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\ref\MassageCentre.DataAccess.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.sourcelink.json

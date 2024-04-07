@@ -11,10 +11,10 @@ namespace MassageCentre.Domain.Models
         [Key]
         public int Id { get; set; }
         public MassageType TypeOfMassage { get; set; }
-        public List<User> Users { get; set; }
+        public string Description { get; set; } = string.Empty;
+        public int Price { get; set; }
+        public User User { get; set; }
         public int UserId { get; set; }
-        public List<Massage> Massages { get; set; }
-        public int MassageId { get; set; }
         public DateTime StartTime { get; set; }
         public DateTime EndTime { get; set; }
     }

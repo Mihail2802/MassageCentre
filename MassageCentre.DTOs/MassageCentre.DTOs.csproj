@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MassageDTOs\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\MassageCentre.Models\MassageCentre.Domain.csproj" />
   </ItemGroup>
 

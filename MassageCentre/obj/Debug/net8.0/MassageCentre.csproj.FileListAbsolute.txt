@@ -140,3 +140,4 @@ C:\Users\50\Desktop\MassageCentre\MassageCentre\bin\Debug\net8.0\MassageCentre.H
 C:\Users\50\Desktop\MassageCentre\MassageCentre\bin\Debug\net8.0\MassageCentre.Helpers.pdb
 C:\Users\50\Desktop\MassageCentre\MassageCentre\bin\Debug\net8.0\MassageCentre.DataAccess.pdb
 C:\Users\50\Desktop\MassageCentre\MassageCentre\bin\Debug\net8.0\MassageCentre.Domain.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre\obj\Debug\net8.0\MassageCentre.sourcelink.json

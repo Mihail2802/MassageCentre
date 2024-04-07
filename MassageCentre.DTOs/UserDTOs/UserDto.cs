@@ -2,7 +2,7 @@
 
 namespace MassageCentre.DTOs.UserDTOs
 {
-    internal class UserDto
+    public class UserDto
     {
         public string FistName { get; set; }
         public string LastName { get; set; }

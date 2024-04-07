@@ -13,7 +13,6 @@ namespace MassageCentre.Domain.Models
         public string Password { get; set; } = string.Empty;  
         public string? Username { get; set; }
         public Role Role { get; set; }
-        public int MyProperty { get; set; }
         public List<Reservation> ?Reservation {  get; set; }
     }
 }

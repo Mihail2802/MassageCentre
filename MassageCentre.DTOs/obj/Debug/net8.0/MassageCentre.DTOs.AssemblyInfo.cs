@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MassageCentre.DTOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df40d6327890d86688e44654b9644c4fcae1ea7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MassageCentre.DTOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MassageCentre.DTOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
