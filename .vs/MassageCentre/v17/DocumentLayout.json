@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50\\Desktop\\MassageCentre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C270488-6B76-46B7-BC2F-4C915B1E0109}|MassageCentre.Services\\MassageCentre.Services.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.services\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C270488-6B76-46B7-BC2F-4C915B1E0109}|MassageCentre.Services\\MassageCentre.Services.csproj|solutionrelative:massagecentre.services\\interfaces\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFF8C2-22C4-4154-A84E-41F15FF53D53}|MassageCentre.DTOs\\MassageCentre.DTOs.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFF8C2-22C4-4154-A84E-41F15FF53D53}|MassageCentre.DTOs\\MassageCentre.DTOs.csproj|solutionrelative:massagecentre.dtos\\userdtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFF8C2-22C4-4154-A84E-41F15FF53D53}|MassageCentre.DTOs\\MassageCentre.DTOs.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.dtos\\userdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFF8C2-22C4-4154-A84E-41F15FF53D53}|MassageCentre.DTOs\\MassageCentre.DTOs.csproj|solutionrelative:massagecentre.dtos\\userdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFF8C2-22C4-4154-A84E-41F15FF53D53}|MassageCentre.DTOs\\MassageCentre.DTOs.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.dtos\\userdtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFF8C2-22C4-4154-A84E-41F15FF53D53}|MassageCentre.DTOs\\MassageCentre.DTOs.csproj|solutionrelative:massagecentre.dtos\\userdtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03D8DA-724F-4ED0-B053-3AE27DF112DE}|MassageCentre.Models\\MassageCentre.Domain.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.models\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03D8DA-724F-4ED0-B053-3AE27DF112DE}|MassageCentre.Models\\MassageCentre.Domain.csproj|solutionrelative:massagecentre.models\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03D8DA-724F-4ED0-B053-3AE27DF112DE}|MassageCentre.Models\\MassageCentre.Domain.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.models\\models\\massage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03D8DA-724F-4ED0-B053-3AE27DF112DE}|MassageCentre.Models\\MassageCentre.Domain.csproj|solutionrelative:massagecentre.models\\models\\massage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03D8DA-724F-4ED0-B053-3AE27DF112DE}|MassageCentre.Models\\MassageCentre.Domain.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03D8DA-724F-4ED0-B053-3AE27DF112DE}|MassageCentre.Models\\MassageCentre.Domain.csproj|solutionrelative:massagecentre.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C270488-6B76-46B7-BC2F-4C915B1E0109}|MassageCentre.Services\\MassageCentre.Services.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.services\\massagecentre.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C270488-6B76-46B7-BC2F-4C915B1E0109}|MassageCentre.Services\\MassageCentre.Services.csproj|solutionrelative:massagecentre.services\\massagecentre.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E313C235-9370-4A1F-A620-DC0DA1F4AE79}|MassageCentre.DataAccess\\MassageCentre.DataAccess.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.dataaccess\\massagecentredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E313C235-9370-4A1F-A620-DC0DA1F4AE79}|MassageCentre.DataAccess\\MassageCentre.DataAccess.csproj|solutionrelative:massagecentre.dataaccess\\massagecentredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E313C235-9370-4A1F-A620-DC0DA1F4AE79}|MassageCentre.DataAccess\\MassageCentre.DataAccess.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.dataaccess\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E313C235-9370-4A1F-A620-DC0DA1F4AE79}|MassageCentre.DataAccess\\MassageCentre.DataAccess.csproj|solutionrelative:massagecentre.dataaccess\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E313C235-9370-4A1F-A620-DC0DA1F4AE79}|MassageCentre.DataAccess\\MassageCentre.DataAccess.csproj|c:\\users\\50\\desktop\\massagecentre\\massagecentre.dataaccess\\migrations\\20240404203252_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E313C235-9370-4A1F-A620-DC0DA1F4AE79}|MassageCentre.DataAccess\\MassageCentre.DataAccess.csproj|solutionrelative:massagecentre.dataaccess\\migrations\\20240404203252_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Models\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "MassageCentre.Models\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Models\\Models\\Reservation.cs",
+              "RelativeToolTip": "MassageCentre.Models\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:22:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DTOs\\UserDTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "MassageCentre.DTOs\\UserDTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DTOs\\UserDTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "MassageCentre.DTOs\\UserDTOs\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:24:50.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogInUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DTOs\\UserDTOs\\LogInUserDto.cs",
+              "RelativeDocumentMoniker": "MassageCentre.DTOs\\UserDTOs\\LogInUserDto.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DTOs\\UserDTOs\\LogInUserDto.cs",
+              "RelativeToolTip": "MassageCentre.DTOs\\UserDTOs\\LogInUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:24:12.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DTOs\\UserDTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "MassageCentre.DTOs\\UserDTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DTOs\\UserDTOs\\UserDto.cs",
+              "RelativeToolTip": "MassageCentre.DTOs\\UserDTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:22:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Services\\Interfaces\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "MassageCentre.Services\\Interfaces\\IUserInterface.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Services\\Interfaces\\IUserInterface.cs",
+              "RelativeToolTip": "MassageCentre.Services\\Interfaces\\IUserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:17:08.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MassageCentre.Services",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Services\\MassageCentre.Services.csproj",
+              "RelativeDocumentMoniker": "MassageCentre.Services\\MassageCentre.Services.csproj",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Services\\MassageCentre.Services.csproj",
+              "RelativeToolTip": "MassageCentre.Services\\MassageCentre.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T10:15:36.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MassageCentre.Models\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Models\\Models\\User.cs",
+              "RelativeToolTip": "MassageCentre.Models\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:11:18.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Massage.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Models\\Models\\Massage.cs",
+              "RelativeDocumentMoniker": "MassageCentre.Models\\Models\\Massage.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.Models\\Models\\Massage.cs",
+              "RelativeToolTip": "MassageCentre.Models\\Models\\Massage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:36:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240404203252_mig.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DataAccess\\Migrations\\20240404203252_mig.cs",
+              "RelativeDocumentMoniker": "MassageCentre.DataAccess\\Migrations\\20240404203252_mig.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DataAccess\\Migrations\\20240404203252_mig.cs",
+              "RelativeToolTip": "MassageCentre.DataAccess\\Migrations\\20240404203252_mig.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:32:53.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DataAccess\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MassageCentre.DataAccess\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DataAccess\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "MassageCentre.DataAccess\\Implementations\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:30:30.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MassageCentreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DataAccess\\MassageCentreDbContext.cs",
+              "RelativeDocumentMoniker": "MassageCentre.DataAccess\\MassageCentreDbContext.cs",
+              "ToolTip": "C:\\Users\\50\\Desktop\\MassageCentre\\MassageCentre.DataAccess\\MassageCentreDbContext.cs",
+              "RelativeToolTip": "MassageCentre.DataAccess\\MassageCentreDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:14:01.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

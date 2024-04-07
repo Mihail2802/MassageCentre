@@ -1,0 +1,17 @@
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\bin\Debug\net8.0\MassageCentre.DataAccess.deps.json
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\bin\Debug\net8.0\MassageCentre.DataAccess.runtimeconfig.json
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\bin\Debug\net8.0\MassageCentre.DataAccess.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\bin\Debug\net8.0\MassageCentre.DataAccess.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\bin\Debug\net8.0\MassageCentre.Domain.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\bin\Debug\net8.0\MassageCentre.Domain.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.csproj.AssemblyReference.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.AssemblyInfoInputs.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.AssemblyInfo.cs
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageC.B46CA288.Up2Date
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\refint\MassageCentre.DataAccess.dll
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.pdb
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\MassageCentre.DataAccess.genruntimeconfig.cache
+C:\Users\50\Desktop\MassageCentre\MassageCentre.DataAccess\obj\Debug\net8.0\ref\MassageCentre.DataAccess.dll
